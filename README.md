@@ -1,1 +1,3 @@
 # Capstone-Project-3
+
+Masalah yang dihadapi adalah memprediksi harga rumah di California berdasarkan data sensus tahun 1990. Stakeholder utama dalam masalah ini meliputi pengembang properti, agen real estate, dan pembeli rumah yang ingin mendapatkan estimasi harga properti secara akurat. Tujuan dari proyek ini adalah mengembangkan model prediktif yang mampu memprediksi harga rumah dengan tingkat akurasi yang tinggi, sehingga dapat digunakan untuk mendukung keputusan bisnis yang lebih informasional dan strategis. Dengan model ini, stakeholder dapat membuat keputusan yang lebih baik dalam menentukan harga jual, investasi properti, atau pembelian rumah di pasar California.
